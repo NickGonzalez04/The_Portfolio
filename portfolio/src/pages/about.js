@@ -7,7 +7,7 @@ export default function About() {
     <Layout>
       <h1>About</h1>
       <p>
-        About me!
+        Hey, I am Nicholas I am a growing software engineer looking to contribute to a company!
       </p>
       <Link to="/">Home</Link>
     </Layout>
